@@ -1,0 +1,64 @@
+body {
+  background-color: #010135;
+  margin: 0px;
+}
+
+header {
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.title-row { 
+  margin-top: 42px;
+  margin-bottom: 21px;
+  text-align: center;
+}
+
+.instructions-title {
+  display: inline;
+  color: #00ffff;
+  font-size: 18px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.instructions-row {
+  margin: 0 auto;
+  width: 400px;  
+}
+
+.instructions-number {
+  padding-right: 25px;
+  color: #00ffff;
+  font-family: 'Work Sans';
+  font-size: 36px;
+}
+
+.instructions-text {
+  padding: 10px;
+  font-family: 'Work Sans';
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.door-frame {
+  cursor: pointer;
+  padding: 10px;  
+}
+
+.door-row {
+  text-align: center;
+}
+
+.start-row {  
+  width: 120px;
+  height: 43px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  background-color: #eb6536;
+  color: #010165;
+  padding-top: 18px;  
+  margin: auto;
+  margin-bottom: 21px;
+  cursor: pointer;
+}
